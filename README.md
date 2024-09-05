@@ -8,7 +8,6 @@
 💡 &nbsp; M'agrada explorar noves tecnologies i aprofundir al màxim en allò que em motiva.\
 🎓 &nbsp;Estic estudiant Enginyeria Informàtica a la Universitat Pompeu Fabra.\
 🌱 &nbsp;Actualment estic aprenent desenvolupament web.\
-✍️ &nbsp;En el meu temps lliure, em dedico al disseny de logotips i a escriure blogs com a aficions o activitats secundàries.\
 ✉️ &nbsp;Pots enviar-me un correu electrònic a jan.prats04@gmail.com.\
 📄 &nbsp;Si us plau, fes una ullada al meu currículum per obtenir més detalls sobre mi. Estic obert a comentaris i suggeriments!\
 
