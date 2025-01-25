@@ -5,11 +5,11 @@
 <!-- ## 👋 &nbsp;Hola! Em dic Jan Prats -->
 
 ### 👨🏻‍💻 &nbsp;About Me
-💡 &nbsp; M'agrada explorar noves tecnologies i aprofundir al màxim en allò que em motiva.\
-🎓 &nbsp;Estic estudiant Enginyeria Informàtica a la Universitat Pompeu Fabra.\
-🌱 &nbsp;Actualment estic aprenent desenvolupament web.\
-✉️ &nbsp;Pots enviar-me un correu electrònic a jan.prats04@gmail.com.\
-📄 &nbsp;Si us plau, fes una ullada al meu currículum per obtenir més detalls sobre mi. Estic obert a comentaris i suggeriments!\
+💡 &nbsp; I enjoy exploring new technologies and diving deep into what drives my curiosity.\
+🎓 &nbsp;I'm currently pursuing a Computer Engineering degree at Universitat Pompeu Fabra.\
+🌱 &nbsp;I’m currently focused on learning cybersecurity.\
+✉️ &nbsp;Feel free to reach out to me at jan.prats04@gmail.com.\
+📄 &nbsp;Please take a look at my curriculum for more details about my skills and experience.\
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
@@ -42,13 +42,6 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-<!-- ### 🗃 &nbsp;Databases -->
-<!--![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;-->
-
-
 ### 🧰 &nbsp;Version Controll & Tools 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -56,19 +49,12 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-<!-- ### ⚙️ &nbsp;GitHub Analytics -->
-
-
-### 🤝🏻 &nbsp;Connect with Me
-<p align="center">
-<a href="https://www.linkedin.com/in/janprats/"><img src="https://img.shields.io/badge/-Jan%20Prats-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jan.prats04@gmail.com"><img src="https://img.shields.io/badge/-Jan%20Prats-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
 
 ### 🐍 &nbsp;That's How Commits move ...
 
 <div align="center">
   <a href="https://github.com/Januto30/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+    <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/readme/resources/img/grid-snake.svg" alt="snake" />
+  </a>
 </div>
+
