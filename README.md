@@ -1,5 +1,6 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 <h1 align="center">Hi there! I'm Jan Prats 👨🏻‍💻</h1>
+<h1 align="center"><b>Hi there! I'm Jan Prats </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   I'm a passionate Computer Engineering student at Universitat Pompeu Fabra, currently diving into the world of Cybersecurity and Web Development.  
   Let's connect and build something amazing! 🚀
