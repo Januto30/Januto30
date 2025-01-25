@@ -12,7 +12,7 @@
 - 🎓 Currently pursuing a Computer Engineering degree at **Universitat Pompeu Fabra**.
 - 🌱 Focused on learning **Cybersecurity** technologies and expanding my skill set.
 - ✉️ Feel free to reach out to me at [jan.prats04@gmail.com](mailto:jan.prats04@gmail.com).
-- 📄 Check out my [**Curriculum**](#) for more details about my skills and experience.
+- 📄 Check out my Curriculum for more details about my skills and experience.
 
 ---
 
@@ -64,6 +64,12 @@
 </p>
 
 ---
+
+### 📊 &nbsp;GitHub Stats & Activity
+
+[![Jan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Januto30&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Januto30)
+
+[![Jan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Januto30&theme=material-palenight)](https://github.com/Januto30)
 
 ### 🚀 Let's Connect!
 - Feel free to reach out, collaborate, or just chat about tech! I'm always open to new opportunities and discussions.
