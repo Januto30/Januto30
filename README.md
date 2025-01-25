@@ -66,5 +66,6 @@
 ---
 
 ### 🚀 Let's Connect!
-Feel free to reach out, collaborate, or just chat about tech! I'm always open to new opportunities and discussions.  
+- Feel free to reach out, collaborate, or just chat about tech! I'm always open to new opportunities and discussions.
+
 [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Januto30)
