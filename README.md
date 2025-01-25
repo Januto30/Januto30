@@ -51,6 +51,12 @@
   </a>
 </p>
 
+### 🐋 Docker & Containers
+<p align="center">
+  
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+</p>
+
 ### 🧰 Version Control & Tools
 <p align="center">
   
