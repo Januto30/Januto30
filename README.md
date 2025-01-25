@@ -38,6 +38,7 @@
 <a href="https://www.linkedin.com/in/janprats/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<a href="jan.prats04@gmail.com"><img src="[https://img.shields.io/badge/-Jan%20Prats-D14836?style=flat&logo=Gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)"/></a>
 
 <!-- ### 🗃 &nbsp;Databases -->
 <!--![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
