@@ -17,9 +17,14 @@
 ---
 ### 🛠 Tech Stack
 <p align="center">
-  
-![Bash](https://img.shields.io/badge/Bash-333333?logo=gnubash&logoColor=white&style=for-the-badge)
- ![Python](https://img.shields.io/badge/python-333333?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+  ![Bash](https://img.shields.io/badge/Bash-333333?logo=gnubash&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-333333?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=E34F26)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=java&logoColor=ED8B00)
 </p>
 
 ### 🛠 Databases
