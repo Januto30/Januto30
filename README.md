@@ -33,7 +33,10 @@
 ### 🛠 Databases
 <p align="center">
   
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-333333.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+  ![MariaDB](https://img.shields.io/badge/MariaDB-333333?style=for-the-badge&logo=mariadb&logoColor=white) 
+  ![Firebase](https://img.shields.io/badge/firebase-333333?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+  ![Cloudflare](https://img.shields.io/badge/Cloudflare-333333?style=for-the-badge&logo=Cloudflare&logoColor=white)
   
 </p>
 
