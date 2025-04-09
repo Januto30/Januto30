@@ -33,45 +33,54 @@
 
 ### 🛠 Databases
 <p align="center">
-  
+
   ![MySQL](https://img.shields.io/badge/mysql-333333.svg?style=for-the-badge&logo=mysql&logoColor=white) 
   ![MariaDB](https://img.shields.io/badge/MariaDB-333333?style=for-the-badge&logo=mariadb&logoColor=white) 
-  ![Firebase](https://img.shields.io/badge/firebase-333333?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+  ![Firebase](https://img.shields.io/badge/firebase-333333?style=for-the-badge&logo=firebase&logoColor=white) 
   ![Cloudflare](https://img.shields.io/badge/Cloudflare-333333?style=for-the-badge&logo=Cloudflare&logoColor=white)
-  
+
 </p>
+
 
 ### 🎛️ Operating Systems
 <p align="center">
-  
+
   ![Kali](https://img.shields.io/badge/Kali-333333?style=for-the-badge&logo=kalilinux&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=for-the-badge&logo=ubuntu&logoColor=white) 
   ![Debian](https://img.shields.io/badge/Debian-333333?style=for-the-badge&logo=debian&logoColor=white) 
+
 </p>
+
 
 ### 🤖 Artificial Intelligence
 <p align="center">
-  
+
   ![GitHub Copilot](https://img.shields.io/badge/github_copilot-333333?style=for-the-badge&logo=github-copilot&logoColor=white) 
   ![ChatGPT](https://img.shields.io/badge/chatGPT-333333?style=for-the-badge&logo=openai&logoColor=white)
+
 </p>
+
 
 ### 🐋 Docker & Containers
 <p align="center">
-  
+
   ![Docker](https://img.shields.io/badge/docker-333333.svg?style=for-the-badge&logo=docker&logoColor=white) 
   ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-333333.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 </p>
+
 
 ### 🧰 Version Control & Tools
 <p align="center">
 
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-333333.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+  ![Canva](https://img.shields.io/badge/Canva-333333.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+  ![Figma](https://img.shields.io/badge/figma-333333.svg?style=for-the-badge&logo=figma&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-333333.svg?style=for-the-badge&logo=git&logoColor=white) 
+  ![GitHub](https://img.shields.io/badge/github-333333.svg?style=for-the-badge&logo=github&logoColor=white) 
+
 </p>
+
 
 ---
 ### 🚀 Let's Connect!
