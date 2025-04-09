@@ -17,6 +17,7 @@
 ---
 ### 🛠 Tech Stack
 <p align="center">
+  
   ![Bash](https://img.shields.io/badge/Bash-333333?logo=gnubash&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-333333?style=for-the-badge&logo=c&logoColor=white)
@@ -25,6 +26,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=java&logoColor=ED8B00)
+
 </p>
 
 ### 🛠 Databases
