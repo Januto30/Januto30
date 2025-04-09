@@ -63,12 +63,13 @@
 
 ---
 
-### 🐋 Docker & Containers
+### 🐋 Docker & Containers & Virtual Machines
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker%20Compose-333333?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-333333?style=for-the-badge&logo=vmware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-333333?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 </p>
-
 ---
 
 ### 🧰 Version Control & Tools
