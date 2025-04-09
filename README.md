@@ -19,7 +19,7 @@
 <p align="center">
   
 ![Bash](https://img.shields.io/badge/Bash-333333?logo=gnubash&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-333333?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-333333?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6)
