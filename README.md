@@ -31,7 +31,8 @@
 
 </p>
 
-### 🛠 Databases
+### ![Databases](https://img.shields.io/badge/Databases-333333?style=for-the-badge&logo=database&logoColor=white)
+ Databases
 <p align="center">
 
   ![MySQL](https://img.shields.io/badge/mysql-333333.svg?style=for-the-badge&logo=mysql&logoColor=white) 
