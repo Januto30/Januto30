@@ -15,6 +15,7 @@
 - 📄 Check out my Curriculum for more details about my skills and experience.
 
 ---
+<img src="https://simpleicons.org/icons/gnubash.svg" alt="Bash" width="40"/>
 
 ### 🛠 Tech Stack
 <p align="center">
