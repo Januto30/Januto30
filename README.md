@@ -51,7 +51,9 @@
   <img src="https://img.shields.io/badge/Kali-333333?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-333333?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Debian-333333?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Parrot-333333?style=for-the-badge&logo=parrot&logoColor=white"/>
 </p>
+
 
 ---
 
