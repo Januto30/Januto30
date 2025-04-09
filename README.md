@@ -43,21 +43,23 @@
 ### 🎛️ Operating Systems
 <p align="center">
   
-  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
+  ![Kali](https://img.shields.io/badge/Kali-333333?style=for-the-badge&logo=kalilinux&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=for-the-badge&logo=ubuntu&logoColor=white) 
+  ![Debian](https://img.shields.io/badge/Debian-333333?style=for-the-badge&logo=debian&logoColor=white) 
 </p>
 
 ### 🤖 Artificial Intelligence
 <p align="center">
   
-  ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+  ![GitHub Copilot](https://img.shields.io/badge/github_copilot-333333?style=for-the-badge&logo=github-copilot&logoColor=white) 
+  ![ChatGPT](https://img.shields.io/badge/chatGPT-333333?style=for-the-badge&logo=openai&logoColor=white)
 </p>
 
 ### 🐋 Docker & Containers
 <p align="center">
   
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-333333.svg?style=for-the-badge&logo=docker&logoColor=white) 
+  ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-333333.svg?style=for-the-badge&logo=docker&logoColor=white)
 </p>
 
 ### 🧰 Version Control & Tools
