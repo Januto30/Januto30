@@ -17,7 +17,7 @@
 - 💡 I enjoy exploring new technologies and diving deep into what drives my curiosity.
 - 🎓 Currently pursuing a Computer Engineering degree at **Universitat Pompeu Fabra**.
 - 🌱 Focused on mastering **Cybersecurity** technologies.
-- ✉️ Feel free to reach out to me at [jan.prats04@gmail.com](mailto:jan.prats04@gmail.com).
+- ✉️ Feel free to reach out to me at [jan.prats@proton.me](mailto:jan.prats@proton.me).
 - 📄 Check out my Curriculum for more details about my skills and experience.
 
 ---
